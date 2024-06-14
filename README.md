@@ -1,3 +1,13 @@
+contents 
+1 task (Iteration (while.py, pattern.py)
+2 task (exploring neural networks)
+3 task (logistic regression)
+4 task (Decision Tree)
+5 task (Data visualisation)
+6 task (Datasets and Dataframes) = report, datasets tasks
+7 task (K-means clustering)
+
+
 Iteration (while.py, pattern.py)
 
 Iteration in Python is crucial because it allows for the efficient processing and manipulation of data structures like lists, dictionaries, and sets. 
